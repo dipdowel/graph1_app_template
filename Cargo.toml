@@ -1,0 +1,8 @@
+[package]
+name = "graph1_app_template"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+minifb = "0.28.0"
+graph1 = { git = "https://github.com/dipdowel/graph1", tag = "0.0.1-alpha" }
